@@ -1,7 +1,7 @@
 ________________________________________
 # **Analyzing the Impact of Car Features on Price and Profitability**
 ________________________________________
-(Replace with an actual banner if available)
+![wolf-schram-19t6J2RVqQE-unsplash](https://github.com/abulhassan-m/DA-P7-CarFeature/assets/145419215/64254360-54ac-49ea-b8c2-867539cdb27d)
 ________________________________________
 ### Table of Contents
 -	Project Overview
