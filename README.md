@@ -58,7 +58,7 @@ cd car-features-analysis
 - Open Automotive_Analytics_Presentation.pptx to review the presentation.
 ```
 File Structure
->car-features-analysis/
+>DA-P7-CarFeature/
 │
 ├── data/
 │   ├── Car_Features_and_MSRP.csv
